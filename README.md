@@ -1,6 +1,6 @@
 # Exercícios POO
 
-Este repositório reúne os exercícios que desenvolvo durante meus estudos de Java em Orientaação a Objetos.
+Este repositório reúne os exercícios que desenvolvo durante meus estudos de Java em Orientação a Objetos.
 
 ## Conteúdo
 
