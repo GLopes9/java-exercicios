@@ -1,0 +1,52 @@
+# Java class files
+*.class
+
+# Compiled files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.iml
+*.swp
+*.swo
+*~
+.DS_Store
+thumbs.db
+
+# Build and output directories
+/out/
+/target/
+/build/
+/.gradle/
+bin/
+
+# Maven
+.m2/
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+
+# IntelliJ
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+.metadata/
+
+# NetBeans
+nbproject/
+.nb-gradle/
+
+# Package files
+*.log
+
